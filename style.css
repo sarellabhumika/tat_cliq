@@ -1,0 +1,108 @@
+body {
+    background: #ececec;
+    scroll-behavior: smooth;
+    position: sticky;
+    /* overflow: hidden; */
+
+}
+
+.headd {
+    position: fixed;
+    top: 0px;
+    right: 0px;
+    border-radius: 0px;
+    z-index: 1;
+    width: 100%;
+    height: auto;
+}
+.tata h1 a
+{
+    text-decoration: none;
+    color: #ececec;
+    font-size: 50px;
+    
+}
+.video {
+    width: 100%;
+    height: 460px;
+    background-color: black;
+    opacity: 0.8;
+    background: 100% 100%;
+}
+
+.cou {
+    margin-top: 90px;
+    width: 100%
+}
+
+.bi {
+    position: absolute;
+    margin: 9px 0px 0px 9px;
+    width: 100%;
+    height: auto;
+}
+.cards .col:hover
+{
+    transform: scale(1.5);
+    transition: 0.5s;
+}
+.card:hover {
+    transform: scale(1.1);
+    transition: 0.3s;
+}
+
+.deal-offers {
+    margin: 0px 200px 0px 200px;
+
+}
+
+.ldrop {
+    margin: 0px 200px 0px 200px;
+}
+
+.wimages {
+    margin: 0px 200px 0px 200px;
+}
+
+.wonders {
+    margin: 0px 200px 0px 200px;
+}
+
+.trend {
+    margin: 0px 200px 0px 200px;
+}
+
+.letgame {
+    margin: 0px 200px 0px 200px;
+}
+
+.junior {
+    margin: 0px 200px 0px 200px
+}
+
+.clocks {
+    margin: 0px 200px 0px 200px;
+}
+
+.home {
+    margin: 0px 200px 0px 200px;
+}
+
+.beauty-buzz {
+    margin: 0px 200px 0px 200px;
+}
+
+.gadgets {
+    margin: 0px 200px 0px 200px;
+}
+
+.footer ul li a {
+    text-decoration: none;
+    /* list-style-type: none; */
+    color: white;
+
+}
+
+.footer ul li {
+    list-style-type: none;
+}
